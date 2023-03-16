@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\bin\Debug\net6.0\DelegatesEvents.exe
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\bin\Debug\net6.0\DelegatesEvents.deps.json
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\bin\Debug\net6.0\DelegatesEvents.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\bin\Debug\net6.0\DelegatesEvents.dll
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\bin\Debug\net6.0\DelegatesEvents.pdb
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.dll
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\obj\Debug\net6.0\refint\DelegatesEvents.dll
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.pdb
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\obj\Debug\net6.0\DelegatesEvents.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\DelegatesEvents\DelegatesEvents\obj\Debug\net6.0\ref\DelegatesEvents.dll
